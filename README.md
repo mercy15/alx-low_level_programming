@@ -1,1 +1,1 @@
-This repository is for C programs
+All about C programming
