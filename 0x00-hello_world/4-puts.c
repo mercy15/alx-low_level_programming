@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include <string.h>
-
 /**
-  * main - Entry point
-  * Description: The programmer's life quote
-  * Return: Always 0 (success)
- */
+ * main - Entry point
+ * Description: The programmer's life quote
+ * Return: Always 0 (success)
+*/
 int main(void)
 {
 	char str1[52];

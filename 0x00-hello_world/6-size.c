@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <string.h>
 /**
-    * main - Entry point
-    * Description 'A C program that prints the size of cha, int,...'
-    *Return: Always 0 (success)
- */
+ * main - Entry point
+ * Description 'A C program that prints the size of cha, int,...'
+ *Return: Always 0 (success)
+*/
 int main(void)
 {
 	char ch = ' ';

@@ -1,1 +1,1 @@
-This directory is for Hello C programs
+this is about the hello task
